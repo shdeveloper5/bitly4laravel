@@ -3,7 +3,7 @@
     "description": "Provides a Laravel package to communicate with Bit.ly API",
     "license": "MIT",
     "require": {
-        "php": ">=7.4",
+        "php": ">=7.4"
     },
     "require-dev": {
         "phpunit/phpunit": "4.4.*"
